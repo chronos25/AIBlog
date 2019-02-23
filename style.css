@@ -1,0 +1,25 @@
+.a{
+	background-image: url("file:///C:/Users/hp/Documents/ARPITA/r%20(2).jpg");
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 2%;
+	margin-bottom: 20%;
+	height: 550px;
+	background-color: black;
+	color: white;
+}
+#rrs{
+margin-top: 15%;}
+.c{  	
+  		top: 50px;
+		background-color: #33383c73;
+		color: white;
+		font-family: 'Dosis', sans-serif;
+}
+.d{  	
+  			padding-left: 10%;
+  			padding-right: 5%;
+			margin-top: 5%;
+			margin-bottom: 5%; 
+		background-color: rgba(255, 152, 0, 0.78);
+}
